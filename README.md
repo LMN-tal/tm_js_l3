@@ -1,0 +1,1 @@
+# TechMagic TC Homework 3 - TypeScript
